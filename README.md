@@ -155,11 +155,6 @@ Schema of user_dept table
 
 
 
-## 🧪 Running Tests
-
-- **Backend**: `npm run test` (Jest)
-- **Frontend**: `npm run test` (Karma/Jasmine or configured runner)
-
 ## 📝 License
 
 This project is licensed under the MIT License.
