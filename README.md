@@ -118,7 +118,7 @@ Preview of User Dashboard
 <img width="1260" height="771" alt="image" src="https://github.com/user-attachments/assets/dd8a32d4-3f14-4ded-90ac-2ff39f058d38" />
 
 
-Preview of Edit User {for both admin and user}
+Preview of Edit User (for both admin and user)
 <img width="610" height="658" alt="image" src="https://github.com/user-attachments/assets/b1ff2da8-0f26-4a20-a736-df952d2b2d5b" />
 
 
