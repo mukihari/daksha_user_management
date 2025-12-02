@@ -102,6 +102,47 @@ A modern, full-stack web application for managing users and departments, built w
 5. Log in with these credentials:
     - Email: admin@example.com
     - Password: admin
+  
+
+Screenshots:
+
+<img width="1683" height="1012" alt="image" src="https://github.com/user-attachments/assets/935cd28a-9c1d-4a38-a3d4-564a930215ca" />
+Preview of Login page - sign in
+
+<img width="1682" height="1006" alt="image" src="https://github.com/user-attachments/assets/ca61b6bd-bf2d-462a-becc-c4d036270a3f" />
+Preview of Login page - sign up
+
+<img width="1260" height="771" alt="image" src="https://github.com/user-attachments/assets/dd8a32d4-3f14-4ded-90ac-2ff39f058d38" />
+Preview of User Dashboard
+
+<img width="610" height="658" alt="image" src="https://github.com/user-attachments/assets/b1ff2da8-0f26-4a20-a736-df952d2b2d5b" />
+Preview of Edit User [for both admin and user]
+
+<img width="1289" height="1007" alt="image" src="https://github.com/user-attachments/assets/f73c5ff0-6d38-4c35-96eb-b4248ec66538" />
+Preview of Admin Dashboard - All Users
+
+<img width="1297" height="571" alt="image" src="https://github.com/user-attachments/assets/caa6c8f6-d317-4e9f-bd80-c6b9efb6f1a3" />
+Preview of Admin Dashboard - Search Users with filters
+
+<img width="1282" height="550" alt="image" src="https://github.com/user-attachments/assets/c77f7755-f7f4-4f10-8521-0bc577645b73" />
+Preview of Admin Dashboard - All Departments
+
+Database Schema:
+
+<img width="1838" height="297" alt="image" src="https://github.com/user-attachments/assets/c49863b5-4da3-4337-a59b-5942babf1a3f" />
+Schema of user table
+
+<img width="1106" height="293" alt="image" src="https://github.com/user-attachments/assets/1be29737-ea63-42cb-8b6a-5e05d8f591d1" />
+Schema of address table
+
+<img width="956" height="129" alt="image" src="https://github.com/user-attachments/assets/67b6896d-1fc2-43ec-971f-ce61c67f188d" />
+Schema of dept table
+
+<img width="1204" height="327" alt="image" src="https://github.com/user-attachments/assets/07f5cce3-f454-47e5-85bc-4f12274b63e6" />
+Schema of user_dept table
+
+
+
 
 ## 🧪 Running Tests
 
