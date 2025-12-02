@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1764378344183,
+      "tag": "0000_modern_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1764554038290,
+      "tag": "0001_swift_domino",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1764571710434,
+      "tag": "0002_peaceful_carmella_unuscione",
+      "breakpoints": true
+    }
+  ]
+}
