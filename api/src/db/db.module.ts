@@ -15,7 +15,7 @@ export const DB = Symbol('DB');
       inject: [ConfigService],
       useFactory: (configService: ConfigService) => {
         const pool = new Pool({
-          connectionString: 'postgresql://postgres:Mukunda;slaptop@localhost:5433/user_management',
+          connectionString: 'postgresql://neondb_owner:npg_1twSWPBvmb5Z@ep-shy-waterfall-a18rfqbq-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require',
         });
         return drizzle(pool, { schema });
       },
