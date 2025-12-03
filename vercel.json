@@ -5,7 +5,7 @@
       "src": "frontend/package.json",
       "use": "@vercel/static-build",
       "config": {
-        "distDir": "frontend/dist/frontend/browser"
+        "distDir": "dist/frontend/browser"
       }
     },
     {
@@ -15,11 +15,11 @@
   ],
   "routes": [
     {
-      "src": "/api/(.*)",
+      "src": "/api/(.)",
       "dest": "api/src/main.ts"
     },
     {
-      "src": "/(.*)",
+      "src": "/(.)",
       "dest": "frontend/dist/frontend/browser/$1"
     }
   ]
